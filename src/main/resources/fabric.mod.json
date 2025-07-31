@@ -8,9 +8,9 @@
 		"Theo!"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Theoistheboss/eldenring-mod-template-1.21.git"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/eldenring-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
