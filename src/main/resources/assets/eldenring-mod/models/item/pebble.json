@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layor0": "eldenringmod:item/pebble"
+  }
+}
