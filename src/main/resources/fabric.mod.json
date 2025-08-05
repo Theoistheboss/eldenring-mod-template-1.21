@@ -15,10 +15,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"theo.eldenringmod.EldenringMod"
+			"net.theo.eldenringmod.EldenringMod"
 		],
 		"fabric-datagen": [
-			"theo.eldenringmod.EldenringModDataGenerator"
+			"net.theo.eldenringmod.EldenringModDataGenerator"
 		],
 		"client": [
 			"net.theo.eldenringmod.EldenringModClient"

@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "theo.eldenringmod.mixin",
+	"package": "net.theo.eldenringmod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

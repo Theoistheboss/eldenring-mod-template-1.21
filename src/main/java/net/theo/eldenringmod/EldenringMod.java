@@ -18,6 +18,7 @@ public class EldenringMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.RegisterModItems();
 
+        System.out.println("Elden Ring Mod initialized.");
 		LOGGER.info("Welcome To Hell!");
 	}
 }
